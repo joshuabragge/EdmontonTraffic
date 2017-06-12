@@ -1,0 +1,5 @@
+applications:
+- name: EdmontonTraffic
+  random-route: true
+  memory: 64M
+  health-check-type: process
